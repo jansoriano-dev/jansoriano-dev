@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jan
+- 👋 Hi I’m Jan,Shopify Theme Developer
 - 👀 I’m interested in MERN, Django, DevOps
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on any coding work
